@@ -1,0 +1,36 @@
+[
+    {
+        "id":"1",
+        "img_path":"img/whey_3_matrix_2300_gr.jpeg",
+        "tittle":"Whey 3 Matrix 2300gr",
+        "stok":"STOKTA VAR",
+        "fiyat":"Fiyat Sorunuz",
+        "info":"Weider Pure Creatine %100 saf (Creapure) dünyanin tek Mikronize Kreatin Monohidrat üreticisi olan Alman firmasi ALZCHEM tarafindan üretilmistir.Mikronize formda olan Creapure daha hızlı bir emilime sahiptir.Weider Pure Creatine ATP’nin (enerji) kaslarda daha uzun süreli kalmasını yardımcı olabilir."
+    },
+
+    {
+        "id":"2",
+        "img_path":"img/whey_protein_2000_gr.jpeg",
+        "tittle":"Whey 3 Matrix 300gr",
+        "stok":"STOKTA VAR",
+        "fiyat":"Fiyat Sorunuz",
+        "info":"Hardline Whey 3Matrix Hidrolize, Izole ve Konsantre Whey proteini içeren 3Matrix antrenman öncesi ve sonrası için kullanıma uygun bir üründür.En hızlı emilime sahip olan Hidrolize ve İzole Whey protein içeriği ile diğer protein türlerine göre kasların protein ihtiyacını normalden daha hızlı bir şekilde karşılamaya yardımcı olabilir. Hardline Whey 3Matrix'in yenilenen formülü B6 vitamini ile desteklenmiştir. B6 vitamini normal protein ve glikojen metabolizmasına katkıda bulunur."
+    },
+
+    {
+        "id":"3",
+        "img_path":"img/whey_isolate_2000_gr.jpeg",
+        "tittle":"Whey isolate 2000gr",
+        "stok":"STOKTA YOK",
+        "fiyat":"Fiyat Sorunuz",
+        "info":"Scitec Whey Isolate, toz formda olan bir Whey protein ürünüdür. Protein kaynağı %100 izole whey proteinidir. 0 şeker ve 0'a yakın yağ değerleri sayesinde, normal whey proteinlere oranla çok daha hızlı sindirilir. Bu nedenle özellikle spor sonrası için etkili bir protein kaynağıdır."
+    },
+    {
+        "id":"4",
+        "img_path":"img/whey_isolate_2000_gr.jpeg",
+        "tittle":"Whey isolate 2000gr",
+        "stok":"STOKTA YOK",
+        "fiyat":"Fiyat Sorunuz",
+        "info":"Scitec Whey Isolate, toz formda olan bir Whey protein ürünüdür. Protein kaynağı %100 izole whey proteinidir. 0 şeker ve 0'a yakın yağ değerleri sayesinde, normal whey proteinlere oranla çok daha hızlı sindirilir. Bu nedenle özellikle spor sonrası için etkili bir protein kaynağıdır."
+    }
+]

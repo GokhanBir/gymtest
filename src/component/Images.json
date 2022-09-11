@@ -1,0 +1,18 @@
+[
+    {
+        "id":"1",
+        "img_path":"img/gym-1.jpg"
+    },
+    {
+        "id":"2",
+        "img_path":"img/st.jpg"
+    },
+    {
+        "id":"3",
+        "img_path":"img/relogo.png"
+    },
+    {
+        "id":"4",
+        "img_path":"img/meet.jpg"
+    }
+]

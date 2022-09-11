@@ -1,0 +1,29 @@
+[
+    {
+        "id":"1",
+        "tittle":"EKİPMANLAR & EĞİTİM",
+        "info":"Hedefinize ulaşmanızı,doğru yolda ilerlemenizi sağlayacak doğru araçları ve doğru eğitimi sunuyoruz.."
+    },
+
+    {
+        "id":"2",
+        "tittle":"DESTEK",
+        "info":"Ne kadar desteğe ihtiyacınız olursa olsun, fitness yolculuğunuz boyunca size yardımcı olacak profesyonel eğitimli ekip desteği."
+    },
+
+    {
+        "id":"3",
+        "tittle":"TOPLULUK",
+        "info":"Sadece bir spor salonuna katılmıyorsunuz. Size ihtiyacınız olan cesareti verebilecek,benzer düşünen insanlardan oluşan destekleyici bir topluluğa katılıyorsunuz"
+    },
+    {
+        "id":"4",
+        "tittle":"KİŞİSEL GELİŞİM",
+        "info":"Her seviyeye uygun özel kişiselleştirilmiş profesyonel çalışma programları sunuyoruz"
+    },
+    {
+        "id":"5",
+        "tittle":"ÜRÜNLER",
+        "info":"Gelişiminizi destekleyici, geniş yelpazeli takviye gıda ürün çeşitleri."
+    }
+]
